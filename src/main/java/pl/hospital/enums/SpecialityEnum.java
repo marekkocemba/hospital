@@ -1,6 +1,6 @@
 package pl.hospital.enums;
 
-public enum SpecificationEnum {
+public enum SpecialityEnum {
     NEUROLOGIST,
     LARYNGOLOGIST
 }
